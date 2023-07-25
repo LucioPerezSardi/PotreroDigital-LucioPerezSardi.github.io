@@ -43,6 +43,14 @@
 }
 
 @for $i from 0 through 100{
+    .tablet-mx-px-#{$i*5}{
+        @media (min-width:768px) and (max-width:1024px){
+            margin: 0 5px * $i;
+        }
+    }
+}
+
+@for $i from 0 through 100{
     .ms-px-#{$i*5}{
         margin-left: 5px * $i;
     }

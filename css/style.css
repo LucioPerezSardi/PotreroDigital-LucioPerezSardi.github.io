@@ -12143,7 +12143,7 @@ textarea.form-control-lg {
   margin-right: 145px;
 }
 
-.me-px-150, .accordion-item-right {
+.me-px-150 {
   margin-right: 150px;
 }
 
@@ -13639,6 +13639,612 @@ textarea.form-control-lg {
   }
 }
 
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-0 {
+    margin: 0 0px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-5 {
+    margin: 0 5px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-10 {
+    margin: 0 10px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-15 {
+    margin: 0 15px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-20 {
+    margin: 0 20px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-25 {
+    margin: 0 25px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-30 {
+    margin: 0 30px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-35 {
+    margin: 0 35px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-40 {
+    margin: 0 40px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-45 {
+    margin: 0 45px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-50 {
+    margin: 0 50px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-55 {
+    margin: 0 55px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-60 {
+    margin: 0 60px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-65 {
+    margin: 0 65px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-70 {
+    margin: 0 70px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-75 {
+    margin: 0 75px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-80 {
+    margin: 0 80px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-85 {
+    margin: 0 85px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-90 {
+    margin: 0 90px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-95 {
+    margin: 0 95px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-100 {
+    margin: 0 100px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-105 {
+    margin: 0 105px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-110 {
+    margin: 0 110px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-115 {
+    margin: 0 115px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-120 {
+    margin: 0 120px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-125 {
+    margin: 0 125px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-130 {
+    margin: 0 130px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-135 {
+    margin: 0 135px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-140 {
+    margin: 0 140px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-145 {
+    margin: 0 145px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-150 {
+    margin: 0 150px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-155 {
+    margin: 0 155px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-160 {
+    margin: 0 160px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-165 {
+    margin: 0 165px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-170 {
+    margin: 0 170px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-175 {
+    margin: 0 175px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-180 {
+    margin: 0 180px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-185 {
+    margin: 0 185px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-190 {
+    margin: 0 190px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-195 {
+    margin: 0 195px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-200 {
+    margin: 0 200px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-205 {
+    margin: 0 205px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-210 {
+    margin: 0 210px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-215 {
+    margin: 0 215px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-220 {
+    margin: 0 220px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-225 {
+    margin: 0 225px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-230 {
+    margin: 0 230px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-235 {
+    margin: 0 235px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-240 {
+    margin: 0 240px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-245 {
+    margin: 0 245px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-250 {
+    margin: 0 250px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-255 {
+    margin: 0 255px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-260 {
+    margin: 0 260px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-265 {
+    margin: 0 265px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-270 {
+    margin: 0 270px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-275 {
+    margin: 0 275px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-280 {
+    margin: 0 280px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-285 {
+    margin: 0 285px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-290 {
+    margin: 0 290px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-295 {
+    margin: 0 295px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-300 {
+    margin: 0 300px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-305 {
+    margin: 0 305px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-310 {
+    margin: 0 310px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-315 {
+    margin: 0 315px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-320 {
+    margin: 0 320px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-325 {
+    margin: 0 325px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-330 {
+    margin: 0 330px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-335 {
+    margin: 0 335px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-340 {
+    margin: 0 340px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-345 {
+    margin: 0 345px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-350 {
+    margin: 0 350px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-355 {
+    margin: 0 355px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-360 {
+    margin: 0 360px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-365 {
+    margin: 0 365px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-370 {
+    margin: 0 370px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-375 {
+    margin: 0 375px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-380 {
+    margin: 0 380px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-385 {
+    margin: 0 385px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-390 {
+    margin: 0 390px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-395 {
+    margin: 0 395px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-400 {
+    margin: 0 400px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-405 {
+    margin: 0 405px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-410 {
+    margin: 0 410px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-415 {
+    margin: 0 415px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-420 {
+    margin: 0 420px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-425 {
+    margin: 0 425px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-430 {
+    margin: 0 430px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-435 {
+    margin: 0 435px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-440 {
+    margin: 0 440px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-445 {
+    margin: 0 445px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-450 {
+    margin: 0 450px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-455 {
+    margin: 0 455px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-460 {
+    margin: 0 460px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-465 {
+    margin: 0 465px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-470 {
+    margin: 0 470px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-475 {
+    margin: 0 475px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-480 {
+    margin: 0 480px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-485 {
+    margin: 0 485px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-490 {
+    margin: 0 490px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-495 {
+    margin: 0 495px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tablet-mx-px-500 {
+    margin: 0 500px;
+  }
+}
+
 .ms-px-0 {
   margin-left: 0px;
 }
@@ -13759,7 +14365,7 @@ textarea.form-control-lg {
   margin-left: 145px;
 }
 
-.ms-px-150, .accordion-item-left {
+.ms-px-150 {
   margin-left: 150px;
 }
 
@@ -16647,6 +17253,18 @@ h2, .h2 {
   .mobile-dimension {
     width: 80%;
     margin: 0;
+  }
+}
+
+@media (min-width: 1024px) {
+  .accordion-item-left {
+    margin-left: 150px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .accordion-item-right {
+    margin-right: 150px;
   }
 }
 

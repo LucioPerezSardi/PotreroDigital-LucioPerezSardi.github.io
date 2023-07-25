@@ -201,11 +201,15 @@ h2{
     }
 }
 .accordion-item-left{
-    @extend .ms-px-150;
+    @media (min-width:1024px){
+    margin-left: 150px;
+    }
 }
 
 .accordion-item-right{
-    @extend .me-px-150;
+    @media (min-width:1024px){
+        margin-right: 150px;
+        }
 }
 
 .mobile-center-flex{
