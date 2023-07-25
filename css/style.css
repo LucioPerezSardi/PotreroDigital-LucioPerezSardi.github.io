@@ -17688,6 +17688,11 @@ h2, .h2 {
     width: 90%;
   }
 }
+@media (min-width: 768px) and (max-width: 1024px) {
+  .cuadro-grande {
+    width: 80vw;
+  }
+}
 @media (min-width: 1024px) {
   .cuadro-grande {
     width: 70%;
@@ -17703,7 +17708,7 @@ h2, .h2 {
   border: none;
   outline: none;
   color: rgb(198, 198, 198);
-  background-color: rgb(23, 23, 23);
+  background-color: rgb(34, 34, 34);
   box-shadow: inset 2px 5px 10px rgb(5, 5, 5);
   width: 90%;
 }
@@ -17749,7 +17754,7 @@ h2, .h2 {
     height: 13em;
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   .consultaHeight {
     height: 13em;
   }
