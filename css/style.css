@@ -16448,7 +16448,21 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  height: 700px;
+}
+@media (min-width: 1024px) {
+  .fondo-s1 {
+    height: 700px;
+  }
+}
+@media (min-width: 768px) {
+  .fondo-s1 {
+    height: 600px;
+  }
+}
+@media (max-width: 7678px) {
+  .fondo-s1 {
+    height: 550px;
+  }
 }
 
 .fondo-s2 {
@@ -16487,6 +16501,18 @@ h1, .h1 {
     text-shadow: black 0 0 5px;
   }
 }
+@media (min-width: 768px) {
+  .h1-main {
+    margin-top: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 300px;
+    border-radius: 2px;
+    padding: 0;
+    line-height: 90px;
+    font-size: 3rem;
+    text-shadow: black 0 0 5px;
+  }
+}
 @media (min-width: 1024px) {
   .h1-main {
     margin-top: 0;
@@ -16505,6 +16531,16 @@ h1, .h1 {
     display: flex;
     flex-wrap: wrap;
     margin-top: 210px;
+    align-content: center;
+    justify-content: center;
+  }
+}
+@media (min-width: 768px) {
+  .posicion-button {
+    margin: 0 0 40px 0px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 80px;
     align-content: center;
     justify-content: center;
   }
@@ -16530,6 +16566,14 @@ h1, .h1 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+  }
+}
+@media (min-width: 768px) {
+  .distr-caract {
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
   }
 }
 @media (min-width: 1024px) {
