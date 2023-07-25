@@ -11,7 +11,7 @@
     font-size: 25px;
     color: #a9b1af;
 }
-@media (max-width:768px){
+@media (max-width:1024px){
     .parrafoEmpresa{
         margin: 0; padding: 20px;
     }
@@ -40,4 +40,10 @@
     border: #a9a3a3 solid 1px;
     box-shadow: 0px 0px 20px $color-ppal;
     width: 90%;
+}
+
+@media (max-width:1024px){
+    .imgRedonda{
+        width: 70vw;
+    }
 }

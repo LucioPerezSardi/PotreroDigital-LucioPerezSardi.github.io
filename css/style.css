@@ -17578,7 +17578,7 @@ h2, .h2 {
   color: #a9b1af;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   .parrafoEmpresa {
     margin: 0;
     padding: 20px;
@@ -17609,6 +17609,11 @@ h2, .h2 {
   width: 90%;
 }
 
+@media (max-width: 1024px) {
+  .imgRedonda {
+    width: 70vw;
+  }
+}
 .fondo-prod-s1 {
   background-image: url(../imagenes/fondoProducto.png);
   background-position: center;
