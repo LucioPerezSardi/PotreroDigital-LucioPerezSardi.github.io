@@ -1,0 +1,57 @@
+//General
+
+body{
+    background-color: $negro;
+    color: $blanco;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+h4 {
+    font-family: 'Mukta', sans-serif;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+p{
+    font-family: 'Mukta', sans-serif;
+}
+
+//whatsapp logo
+.wp{width: 3em;
+    position: fixed;
+    bottom: 2em;
+    right: 2em;
+    border-radius: 100%;
+    transition: all .5s ease;
+    &:hover{width: 3.5em;}
+}
+
+//fuentes
+.fmerri{font-family: 'Merriweather', serif;}
+.fontmarcellus{font-family: 'Marcellus', serif;}
+.fontSourceSansPro{font-family: 'Source Sans Pro', sans-serif;}
+.fontOpenSansInclinado{font-family: 'Open Sans', sans-serif;
+}
+.fontSourceSans3{font-family: 'Source Sans 3', sans-serif;
+}
+.fontMukta{font-family: 'Mukta', sans-serif;}
+.fontRaleway{font-family: 'Raleway', sans-serif;}
+
+.txt-justify{
+    text-align: justify;
+}
+
+//bordes
+.border-top{border-top: 2px $gris solid;}
+.border-bottom{border-bottom: 2px $gris solid;}
+.border-right{border-right: 2px $gris solid;}
+.border-left{border-right: 2px $gris solid;}

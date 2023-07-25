@@ -1,0 +1,144 @@
+//bucles para crear clases
+
+//.width-numero_de_pixeles
+@for $i from 1 through 100{
+    .width-px-#{$i*5}{
+        width: 5px * $i;
+        height: auto;
+    }
+}
+
+@for $i from 0 through 100{
+    .m-px-#{$i*5}{
+        margin: 5px * $i;
+    }
+}
+
+@for $i from 0 through 100{
+    .mb-px-#{$i*5}{
+        margin-bottom: 5px * $i;
+    }
+}
+
+@for $i from 0 through 100{
+    .me-px-#{$i*5}{
+        margin-right: 5px * $i;
+    }
+}
+
+@for $i from 0 through 100{
+    .desktop-me-px-#{$i*5}{
+        @media (min-width:1024px){
+            margin-right: 5px * $i;
+        }
+    }
+}
+
+@for $i from 0 through 100{
+    .desktop-ms-px-#{$i*5}{
+        @media (min-width:1024px){
+            margin-left: 5px * $i;
+        }
+    }
+}
+
+@for $i from 0 through 100{
+    .ms-px-#{$i*5}{
+        margin-left: 5px * $i;
+    }
+}
+
+@for $i from 0 through 100{
+    .mt-px-#{$i*5}{
+        margin-top: 5px * $i;
+    }
+}
+
+@for $i from 0 through 100{
+    .my-px-#{$i*5}{
+        margin: 5px * $i 0;
+    }
+}
+
+@for $i from 0 through 100{
+    .py-px-#{$i*5}{
+        padding: 5px * $i 0;
+    }
+}
+
+@for $i from 0 through 100{
+    .mx-px-#{$i*5}{
+        margin: 0 5px * $i;
+    }
+}
+
+@for $i from 0 through 100{
+    .p-px-#{$i*5}{
+        padding:0 5px * $i;
+    }
+}
+
+//each para colores
+$color-array:(
+            "negro":$negro,                                   
+            "blanco":$blanco,
+            "color-ppal":$color-ppal,
+            "color-sec":$color-sec,
+            "color-ter":$color-ter,
+            "dark-green":$dark-green,
+            "neon-green":$neon-green,
+            "gris":$gris,
+            "bg-gris":$bg-gris,
+            "blanco-sucio":$blanco-sucio,
+            "color-cuat":$color-cuat,
+            "bg-negro":$bg-negro,
+            "gris-alt":$gris-alt
+        );
+@each $color-name, $color-value in $color-array{
+    .txt-#{$color-name}{
+        color: $color-value;
+    }
+    .bg-#{$color-name}{
+        background: $color-value;
+    }
+    .hover-#{$color-name}:hover{
+        color: $color-value;
+    }
+    .border-#{$color-name}{
+        border-top: solid 2px $color-value;
+    }
+}
+
+//mixin
+@mixin flex-row-center{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+@mixin flex-column-center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.flex-column-center{
+    @include flex-column-center;
+}
+.flex-row-center{
+    @include flex-row-center;
+}
+.flex-row-start{
+    @extend .flex-row-center;
+    justify-content: flex-start;
+}
+.flex-column-center-justify-start{
+    @extend .flex-column-center;
+    justify-content: start;
+}
+
+.flex-column-center-align-start{
+    @extend .flex-column-center;
+    align-items: start;
+}
