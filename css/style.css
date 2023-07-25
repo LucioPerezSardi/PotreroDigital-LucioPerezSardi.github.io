@@ -17620,6 +17620,11 @@ h2, .h2 {
   background-size: cover;
   height: 630px;
 }
+@media (max-width: 1024px) {
+  .fondo-prod-s1 {
+    height: 600px;
+  }
+}
 
 .fondo-prod-s2 {
   background-image: url(../imagenes/fondo-minimalista-s2.jpg);
@@ -17634,7 +17639,7 @@ h2, .h2 {
     align-items: center;
   }
 }
-@media (min-width: 1024px) {
+@media (min-width: 768px) {
   .center-button {
     display: flex;
     flex-direction: row;
