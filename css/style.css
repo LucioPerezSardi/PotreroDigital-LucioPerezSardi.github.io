@@ -17065,7 +17065,7 @@ header {
     height: 600px;
   }
 }
-@media (max-width: 7678px) {
+@media (max-width: 768px) {
   .fondo-s1 {
     height: 550px;
   }
@@ -17107,7 +17107,7 @@ h1, .h1 {
     text-shadow: black 0 0 5px;
   }
 }
-@media (min-width: 768px) {
+@media (min-width: 768px) and (max-width: 1024px) {
   .h1-main {
     margin-top: 0;
     background-color: rgba(0, 0, 0, 0.5);
@@ -17141,7 +17141,7 @@ h1, .h1 {
     justify-content: center;
   }
 }
-@media (min-width: 768px) {
+@media (min-width: 768px) and (max-width: 1024px) {
   .posicion-button {
     margin: 0 0 40px 0px;
     display: flex;
@@ -17153,7 +17153,7 @@ h1, .h1 {
 }
 @media (min-width: 1024px) {
   .height-300 {
-    height: 300px;
+    height: 200px;
     display: flex;
     align-content: flex-end;
     align-items: flex-end;
