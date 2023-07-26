@@ -17786,7 +17786,12 @@ h2, .h2 {
 }
 @media (min-width: 1024px) {
   .usuario {
-    width: 30%;
+    width: 45%;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  .usuario {
+    width: 60%;
   }
 }
 @media (max-width: 768px) {
